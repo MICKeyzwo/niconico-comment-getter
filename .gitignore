@@ -1,0 +1,5 @@
+#npmのlogはいらんでしょ
+*.log
+
+#npmのモジュール群は含めないよ
+node_modules/

@@ -1,0 +1,26 @@
+{
+  "name": "niconico-comment-getter",
+  "version": "1.0.0",
+  "description": "ニコニコのコメントをゲットするやつです",
+  "main": "test/test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MICKeyzwo/niconico-comment-getter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MICKeyzwo/niconico-comment-getter/issues"
+  },
+  "homepage": "https://github.com/MICKeyzwo/niconico-comment-getter#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "xml2js": "^0.4.19"
+  }
+}
