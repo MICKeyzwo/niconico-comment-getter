@@ -1,0 +1,2 @@
+# niconico-comment-getter
+ニコニコのコメントをゲットするやつです
